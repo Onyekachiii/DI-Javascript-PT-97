@@ -15,7 +15,6 @@ $(document).ready(function() {
         } else {
             $('#scroll-top').hide();
         }
-
     });
 
 
